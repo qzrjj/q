@@ -1,0 +1,9 @@
+server:
+  port: 8020
+spring:
+  application:
+    name: short_link
+  redis:
+    host: localhost
+    port: 6379
+    timeout: 500
